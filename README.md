@@ -1,4 +1,4 @@
-# 💻 Full Stack Developer | React Native | MERN | AI Enthusiast  
+# 💻 AI Expert | React Native | MERN
 
 👋 Hi there! I'm Hassan, a highly motivated and creative **Full Stack Developer** building robust, scalable, and user-centric web and mobile applications. My expertise lies in **React Native**, the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, and **AI-driven solutions**. I thrive on solving real-world problems with efficient, clean code and innovative technologies.
 
